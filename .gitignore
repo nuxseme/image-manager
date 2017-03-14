@@ -36,3 +36,4 @@ phpunit.phar
 /app/runtime
 /app/test.php
 /vendor
+/application/runtime/
